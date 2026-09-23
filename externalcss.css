@@ -1,19 +1,22 @@
-h1{
-            color: aqua;
-            text-align: center;
-            font-size: 40px;
-        }
-p{
-            color: blue;
-            font-size: 20px;
-            line-height: 1.5;
-            background-color: chartreuse;
-        }
-        button{
+button{
             background-color: blueviolet;
             color: brown;
             padding: 10px;
             border: none;
             border-radius: 5px;
             font-size: 16px;
+        }
+img{
+            width: 200px;
+            border: 5px solid black;
+            border-radius: 10px;
+        }
+ol{
+            color: darkgoldenrod;
+            font-size: 20px;
+        }
+        li{
+            background-color: blue;
+            text-align: center;
+            margin: 8px;
         }
